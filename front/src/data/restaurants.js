@@ -15,7 +15,8 @@ const restaurants = [
             "lat": 43.27013627635408,
             "lng": 5.386239505190779,
         },
-        "img": card1
+        "img": card1,
+        "visitCounter": 230,
     },
     {
         "id": 2,
